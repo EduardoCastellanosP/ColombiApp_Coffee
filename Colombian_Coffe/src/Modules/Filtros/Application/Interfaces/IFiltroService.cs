@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Colombian_Coffe.src.Modules.Filtros.Application.Interfaces
 {
-    public interface IFiltroRepository
+    public interface IFiltroService
     {
         Task<IEnumerable<VariedadCafe>> ObtenerVariedadesFiltradasAsync(Filtro filtro);
     }
