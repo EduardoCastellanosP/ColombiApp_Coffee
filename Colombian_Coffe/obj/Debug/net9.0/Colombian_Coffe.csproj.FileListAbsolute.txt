@@ -3,3 +3,4 @@ C:\Users\USUARIO\OneDrive\Documentos\ColombiApp_Coffee\Colombian_Coffe\obj\Debug
 C:\Users\USUARIO\OneDrive\Documentos\ColombiApp_Coffee\Colombian_Coffe\obj\Debug\net9.0\Colombian_Coffe.AssemblyInfo.cs
 C:\Users\USUARIO\OneDrive\Documentos\ColombiApp_Coffee\Colombian_Coffe\obj\Debug\net9.0\Colombian_Coffe.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\OneDrive\Documentos\ColombiApp_Coffee\Colombian_Coffe\obj\Debug\net9.0\Colombian_Coffe.sourcelink.json
+C:\Users\USUARIO\OneDrive\Documentos\ColombiApp_Coffee\Colombian_Coffe\obj\Debug\net9.0\Colombian_Coffe.csproj.AssemblyReference.cache
