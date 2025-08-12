@@ -14,10 +14,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d5ba5e607bfb6c2af4cf0870d2540f25a4b9c31")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060a3ecc5f5b83603e08fda4e761b5d7d5753b1e")]
 >>>>>>> e1d758fe11419906bf68220782734c6164d6d61a
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d758fe11419906bf68220782734c6164d6d61a")]
+>>>>>>> 75b24417bb2e8f8dd5276db651773a0d9aa260a5
 [assembly: System.Reflection.AssemblyProductAttribute("Colombian_Coffe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Colombian_Coffe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
