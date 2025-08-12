@@ -10,7 +10,7 @@ namespace Colombian_Coffe.src.Modules.Login.Application.Interfaces
     {
         Task<IEnumerable<Usuario>> GetAllAsync();
         Task<Usuario?> GetByIdAsync(int id);
-        void Add(Usuario usuario);
+        void Add(Usuario entity);
         Task SaveAsync();
     }
 }

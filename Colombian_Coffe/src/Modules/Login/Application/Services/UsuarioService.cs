@@ -27,7 +27,7 @@ namespace Colombian_Coffe.src.Modules.Login.Application.Services
             var existentes = await _repo.GetAllAsync();
 
             if (existentes.Any(u => u.Nombre == nombre))
-                throw new Exception("El equipo ya existe.");
+                throw new Exception("El usuario ya existe.");
 
             var usuario = new Usuario
             {
