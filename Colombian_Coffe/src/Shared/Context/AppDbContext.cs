@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Colombian_Coffe.src.modules.Filtros.Entities;
+using Colombian_Coffe.src.Modules.Filtros.Entities;
 using Microsoft.EntityFrameworkCore;
-using Colombian_Coffe.src.modules.Login.Entities;
-using Colombian_Coffe.src.modules.Variedades.Entities;
+using Colombian_Coffe.src.Modules.Login.Entities;
+using Colombian_Coffe.src.Modules.Variedades.Entities;
 
 namespace Colombian_Coffe.src.Shared.Context;
 

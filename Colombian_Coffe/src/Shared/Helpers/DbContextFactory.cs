@@ -2,11 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using inventario.src.Shared.Context; 
-using Microsoft.EntityFrameworkCore; 
+using Colombian_Coffe.src.Shared.Context;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using MySql.EntityFrameworkCore.Extensions;
-
+using MySqlConnector;
 
 namespace Colombian_Coffe.src.Shared.Helpers
 {
